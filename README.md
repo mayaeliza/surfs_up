@@ -29,5 +29,5 @@
   - Overall, June has a higher Average High Temperature.
   
 ## Summary:
-Overall, based on the summary statistics found surf and ice cream shop business is sustainble year round based on average temperature data in June and December being similar. The queries ran for the summary statistics does not take into account precipitation. If one month shows higher averages of precipitation that may be a deterrent to consumers funding the surf and ice cream shop business. It would also be useful to look at the amount of venue generated during months with higher Average Temperatures compared to months with lower Average Temperatures.
+Overall, based on the summary statistics found surf and ice cream shop business is sustainble year round based on average temperature data in June and December being similar. The queries ran for the summary statistics does not take into account precipitation. If one month shows higher averages of precipitation that may be a deterrent to consumers funding the surf and ice cream shop business. It would also be useful to look at the amount of revenue generated during months with higher Average Temperatures compared to months with lower Average Temperatures.
 
